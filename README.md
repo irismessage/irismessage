@@ -1,5 +1,8 @@
 ### a
 
+GitLab: https://gitlab.com/JMcB17    
+twitch.tv/controlmypc dev group is there, I'm lead dev on our Twitch Plays script
+
 <!--
 **JMcB17/JMcB17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
