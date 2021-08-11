@@ -3,6 +3,12 @@
 GitLab: https://gitlab.com/JMcB17    
 twitch.tv/controlmypc dev group is there, I'm lead dev on our Twitch Plays script
 
+Studying Computer Science at the University of York 2021-2024
+
+Free GitHub Pro and other freebies from GitHub Students: https://education.github.com/pack
+
+Commission me (all projects released under GNU GPL v3): https://www.fiverr.com/users/jmcb17
+
 <!--
 **JMcB17/JMcB17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
