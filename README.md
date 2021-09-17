@@ -1,7 +1,6 @@
 ### a
 
 GitLab: https://gitlab.com/JMcB17    
-twitch.tv/controlmypc dev group is there, I'm lead dev on our Twitch Plays script
 
 Studying Computer Science at the University of York 2021-2024
 
