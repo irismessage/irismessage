@@ -1,9 +1,11 @@
-GitLab: https://gitlab.com/joelsgp
+<!--
+GitLab: https://gitlab.com/username
+-->
 
 Free GitHub Pro and other freebies from GitHub Students: https://education.github.com/pack
 
 <!--
-**JMcB17/JMcB17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**username/username** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
